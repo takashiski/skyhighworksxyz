@@ -18,27 +18,13 @@ module.exports={
       //"guide":"auto"
       "/jp60ss/":[
         "",
-        "000.md",
-        "001.md",
-        "002.md",
-        "003.md",
-        "build.md",
-        "/jp60ss/how_to_use.md",
-        "bootmagic.md"
-      ],
-
-      "/hecomi/":[
-        "",
-        "/hecomi/001",
-        "/common/diode/",
-        "/common/socket/",
-      ],
-      "/jp60split/":[
-        "",
-        "/common/diode/"
-      ],
-      "/guide/":[
-        ""
+        "000",
+        "001",
+        "002",
+        "003",
+        // "build",
+        // "how_to_use",
+        // "bootmagic"
       ],
       "/":"auto"
     },
