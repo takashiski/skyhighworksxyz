@@ -9,6 +9,7 @@ module.exports={
   themeConfig:{
     nav:[
       {text:"Home",link:"/"},
+      {text:"Blog",link:"https://skyhigh-works.hatenablog.com/"},
       {text:"JP60SS",link:"/jp60ss/"}
       //{text:"Guide",link:"/guide/"},
       //{text:"JP60Split",link:"/jp60split/"},
