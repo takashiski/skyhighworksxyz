@@ -9,12 +9,23 @@ module.exports={
   themeConfig:{
     nav:[
       {text:"Home",link:"/"},
-      {text:"Guide",link:"/guide/"},
-      {text:"JP60Split",link:"/jp60split/"},
-      {text:"hecomi",link:"/hecomi/"}
+      {text:"JP60SS",link:"/jp60ss/"}
+      //{text:"Guide",link:"/guide/"},
+      //{text:"JP60Split",link:"/jp60split/"},
+      //{text:"hecomi",link:"/hecomi/"}
     ],
     sidebar:{
       //"guide":"auto"
+      "/jp60ss/":[
+        "",
+        "000.md",
+        "001.md",
+        "002.md",
+        "003.md",
+        "build.md",
+        "/jp60ss/how_to_use.md",
+        "bootmagic.md"
+      ],
 
       "/hecomi/":[
         "",
