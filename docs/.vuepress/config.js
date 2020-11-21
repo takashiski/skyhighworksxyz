@@ -21,8 +21,8 @@ module.exports={
         "",
         "000",
         "001",
-        "002",
-        "003",
+        // "002",
+        // "003",
         // "build",
         // "how_to_use",
         // "bootmagic"
@@ -30,6 +30,13 @@ module.exports={
       "/":"auto"
     },
     displayAllHeaders:true,
-    lastUpdated:"Last Updated"
+    lastUpdated:"Last Updated",
+    // configureWebpack:{
+    //   resolve:{
+    //     alias:{
+    //       "@jp60ss":"/jp60ss/"
+    //     }
+    //   }
+    // }
   }
 }
