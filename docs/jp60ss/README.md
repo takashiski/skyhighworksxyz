@@ -5,7 +5,7 @@
   * [https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858](https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858)
   * ファームウェアは[こちらのリポジトリ](https://github.com/takashiski/qmk_firmware/tree/jp60)の`jp60/v1p1`をお使いください
     * [https://github.com/takashiski/qmk_firmware/tree/jp60](https://github.com/takashiski/qmk_firmware/tree/jp60)
-    * [テスト用のビルド済みファームウェアはこちら]($withBase("/jp60ss/jp60_v1p1_default.hex"))
+    * [テスト用のビルド済みファームウェアはこちら](./jp60_v1p1_default.hex)
 
 ## JP60SSの概要
 
