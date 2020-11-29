@@ -1,11 +1,13 @@
 # JP60SS
 
-* 移行中です。
+* [遊舎工房通販ページはこちら](https://yushakobo.jp/shop/consign_jp60ss/)
 * [JP60(IC版)](https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858)が同等の内容なのでそちらをご覧ください
   * [https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858](https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858)
   * ファームウェアは[こちらのリポジトリ](https://github.com/takashiski/qmk_firmware/tree/jp60)の`jp60/v1p1`をお使いください
     * [https://github.com/takashiski/qmk_firmware/tree/jp60](https://github.com/takashiski/qmk_firmware/tree/jp60)
     * [テスト用のビルド済みファームウェアはこちら](./jp60_v1p1_default.hex)
+
+![](/jp60ss/qr.png)
 
 ## JP60SSの概要
 
@@ -14,6 +16,23 @@
 * 親指周りにキーが増えることで、ホームポジションからあまり移動しない入力がやりやすくなります。
 * 親指周りにキーが増えることで、左手での作業が便利になります
 * 信教上の理由によりこのキーボードの配列をJISと呼称することはありません
+
+
+## JP60SSの設計思想
+
+* Poker/GH60ケースに対応していること
+  * Tofu向けに作りたかったのです
+* 普及日本語配列の相対位置を崩さないこと
+  * タイピングは相対位置がすべてだと思っています
+* 分割スペース/可能な限り親指キーが多いこと
+  * 分割スペースになれたらもう戻れません
+
+## 競合キーボード
+
+### 普及日本語配列のキーボード
+
+* [ducky miniの日本語配列](https://archisite.co.jp/products/duckychannel/ducky-mini-jp/)(ディスコン)
+* [Razer Huntsman mini](https://www2.razer.com/jp-jp/gaming-keyboards-keypads/razer-huntsman-mini)
 
 ## JP60SSのうれしさ
 
@@ -48,6 +67,12 @@ JP60では、親指のスペースキー以外全てにレイヤー切り替え�
 
 すごく雑な説明をすると、いわゆる[Fnキー](https://ja.wikipedia.org/wiki/Fn%E3%82%AD%E3%83%BC)と呼ばれるキーと同等の機能を任意に追加し任意の位置のキーの動作を変更できる機能です。
 
-JP60SSでは
+JP60SSではF1～F12と矢印キーとそれ以外のカーソル操作キーを2番目レイヤーに入れて2レイヤー運用をしています。
+あるキーを押しながら押さなければならないということに対して難色を示す人がいますが、前提条件が揃っていないことによる誤解が含まれています。
+
+1. レイヤー切り替えキーはなるべく押しやすい位置、特に親指で押せる位置に配置される。左下や右下などの押しにくい位置ではない。
+2. 基準位置から大きく手を動かさないと届かないような、相対位置による判別が困難な「遠いキー」を使わない
+
+
 
 
