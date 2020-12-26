@@ -29,7 +29,12 @@ module.exports={
         // "how_to_use",
         // "bootmagic"
       ],
-      "/jp60split":"auto",
+      "/jp60split":[
+        "",
+        "000",
+        "001",
+        "002"
+      ],
       "/":"auto"
     },
     displayAllHeaders:true,
