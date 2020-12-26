@@ -10,9 +10,9 @@ module.exports={
     nav:[
       {text:"Home",link:"/"},
       {text:"Blog",link:"https://skyhigh-works.hatenablog.com/"},
-      {text:"JP60SS",link:"/jp60ss/"}
+      {text:"JP60SS",link:"/jp60ss/"},
       //{text:"Guide",link:"/guide/"},
-      //{text:"JP60Split",link:"/jp60split/"},
+      {text:"JP60Split",link:"/jp60split/"}
       //{text:"hecomi",link:"/hecomi/"}
     ],
     sidebar:{
