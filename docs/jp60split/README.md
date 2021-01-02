@@ -7,3 +7,6 @@
 [booth販売URL](https://skyhigh-works.booth.pm/items/2470855)
 
 [ファームウェアURL](https://github.com/takashiski/qmk_firmware)
+
+
+[旧バージョンはこっち](https://skyhigh-works.hatenablog.com/entry/2019/06/29/160030)
