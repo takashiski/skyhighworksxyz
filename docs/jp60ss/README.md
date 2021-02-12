@@ -33,6 +33,28 @@
 
 * [ducky miniの日本語配列](https://archisite.co.jp/products/duckychannel/ducky-mini-jp/)(ディスコン)
 * [Razer Huntsman mini](https://www2.razer.com/jp-jp/gaming-keyboards-keypads/razer-huntsman-mini)
+  * [Huntsman mini紹介記事](https://www.itmedia.co.jp/pcuser/articles/2101/22/news078.html)
+* [Majestouch MINIRA-R convertible](https://www.diatec.co.jp/shop/MINILA-R/)
+  * [MINIRA-R紹介記事](https://pc.watch.impress.co.jp/docs/column/hothot/1269405.html)
+
+### 競合キーボードに対する欠点
+
+* 価格
+* おおよそ倍
+
+### 競合キーボードに対する利点
+
+* Majestouch, Archissのキーボードと親指周り以外変わらない配置
+* キーのフルリマップが可能
+  * 一番手前に数字キー置いて一番奥にZXCV置くこともできる
+  * 英数キー(CapsLock)の位置にEnterを置くこともできる
+  * スペースキーにPrintScreenを置くこともできる
+* プログラマブルである
+  * 簡単なC言語のコードが書ければ、かなり自由になる
+  * Ctrl+Sに`Ctrl+a` `BackSpace` `Ctrl+S` `Alt+F4` を順に実行するような邪悪な挙動を割り当てることもできる
+  * QWERを同時押しすると`いつもお世話になっております。`を打ち込むことができる(厳密にはローマ字入力の場合はitsumoosewaninatteorimasu.+スペース+エンター。)
+* レイヤー切り替えキー(Fnキー)が扱いやすい位置に配置できる
+* スイッチの交換が用意
 
 ## JP60SSのうれしさ
 
