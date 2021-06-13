@@ -1,17 +1,36 @@
 # JP60SS
 
-* [遊舎工房通販ページはこちら](https://yushakobo.jp/shop/consign_jp60ss/)
+## 販売ページ
+
+* [日本語配列 60% 分割スペース キーボード JP60SS(booth)](https://skyhigh-works.booth.pm/items/2564379)
+* [分割スペース対応日本語配列60%キーボード「JP60SS」スイッチ付き(booth)](https://skyhigh-works.booth.pm/items/2973078)
+
+* [遊舎工房通販ページ(委託)](https://yushakobo.jp/shop/consign_jp60ss/)
+
+# 紹介
+
+## 組み立て方
+
 * [JP60(IC版)](https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858)が同等の内容なのでそちらをご覧ください
   * [https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858](https://skyhigh-works.hatenablog.com/entry/2020/08/22/234858)
-  * ファームウェアは[こちらのリポジトリ](https://github.com/takashiski/qmk_firmware/tree/jp60)の`jp60/v1p1`をお使いください
-    * [https://github.com/takashiski/qmk_firmware/tree/jp60](https://github.com/takashiski/qmk_firmware/tree/jp60)
-    * [テスト用のビルド済みファームウェアはこちら](./jp60_v1p1_default.hex)
-
+  
 ![](/jp60ss/qr.png)
 
-## 組み立て・簡単な解説動画
+## 組み立て・簡単な使い方解説動画
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nCt2_ikjTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## ファームウェア
+
+* ファームウェアは[こちらのリポジトリ](https://github.com/takashiski/qmk_firmware/tree/jp60)の`jp60/v1p1`をお使いください
+  * [https://github.com/takashiski/qmk_firmware/tree/jp60](https://github.com/takashiski/qmk_firmware/tree/jp60)
+  * [テスト用のビルド済みファームウェアはこちら](./jp60_v1p1_default.hex)
+* [remap](https://remap-keys.app/)対応しました
+  * [ファームウェア](./jp60_v1p1_via.hex)
+  * [json](./jp60_v1p1.json)
+
+
+
 
 ## JP60SSの概要
 
@@ -20,6 +39,8 @@
 * 親指周りにキーが増えることで、ホームポジションからあまり移動しない入力がやりやすくなります。
 * 親指周りにキーが増えることで、左手での作業が便利になります
 * 信教上の理由によりこのキーボードの配列をJISと呼称することはありません
+  * 単にJIS X 6002には沿ってないよねというだけです。
+  * OADG109Aベース108配列とか普及日本語配列とかそういう周りくどい表現しがちです。
 
 
 ## JP60SSの設計思想
